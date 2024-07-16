@@ -17,5 +17,6 @@ setup(
         )
     ],
     include_package_data=True,
+    package_data={'': ['model/bpe_simple_vocab_16e6.txt.gz']},
     extras_require={'dev': ['pytest']},
 )
