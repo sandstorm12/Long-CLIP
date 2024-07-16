@@ -1,0 +1,4 @@
+**/__pycache__/
+build/
+clip_long.egg-info/
+**/*.pt
